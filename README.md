@@ -2,4 +2,12 @@
 
 A new Flutter project.
 
-![file_vscode](image/image1.png)
+
+## Praktikum 3 : Membuat Repository GitHub dan Laporan Praktikum
+![file_vscode](image/output1.png)
+
+## Praktikum 4: Menerapkan Widget Dasar
+
+**Langkah 1 : Text Widget**
+![text_widget](image/output2.jpeg)
+
