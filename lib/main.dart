@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:hello_world1/basic_widgets/image_widget.dart';
 import 'package:hello_world1/basic_widgets/text_widget.dart';
 
 void main() {
@@ -105,7 +106,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: .center,
           children: [
-            const MyTextWidget(),
+            const MyImageWidget(),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,

@@ -11,3 +11,6 @@ A new Flutter project.
 **Langkah 1 : Text Widget**
 ![text_widget](image/output2.jpeg)
 
+**Langkah 2: Image Widget**
+![image/widget](image/output3.jpeg)
+
