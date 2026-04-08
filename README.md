@@ -21,6 +21,7 @@ A new Flutter project.
 **Langkah 2 : Floating Action Button (FAB)**
 -
 **Langkah 3 : Scaffold Widget**
+-
 ![output_4](image/output4.jpeg)
 
 **Langkah 4 : Dialog Widget**
@@ -31,3 +32,6 @@ A new Flutter project.
 
 **Langkah 6: Date and Time Pickers**
 ![Date_And_Time](image/output7.jpeg)
+
+
+## Tugas Praktikum
